@@ -1,0 +1,3 @@
+#node_modules文件夹的内容不上传，因为package.json即可下载nodejs的第三方模块
+node_modules/
+/package.lock.json
